@@ -11,7 +11,7 @@ const Header = () => {
       <div className="hidden md:flex w-full h-full items-center justify-between">
         <div className="flex items-center gap-2">
           <img src={Logo} className="w-8 object-cover" alt="logo" />
-          <p className="text-headingColor text-x1 font-bold">City</p>
+          <p className="text-headingColor text-x1 font-bold">Cravings</p>
         </div>
 
         <div className="flex items-center gap-8">
