@@ -17,7 +17,7 @@ The Cravings Food Delivery App provides an intuitive platform for users to order
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/cravings-app.git`
+1. Clone this repository: `git clone https://github.com/adams-creatives/cravings-app.git`
 2. Install dependencies: `yarn install`
 3. Start the development server: `yarn start`
 
